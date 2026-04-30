@@ -1,6 +1,7 @@
 1. Clone the repository
 
 git clone https://github.com/anyone0088/docker_deployment.git
+
 cd YOUR_REPO
 
  2. Start the containers
